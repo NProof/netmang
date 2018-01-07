@@ -13,3 +13,4 @@ ping [h1's ip] –c 1000 (in h6)
 
 p.s. 
   ping 是雙向的，所以來回都要。
+![](https://github.com/NProof/netmang/blob/master/%E6%93%B7%E5%8F%96.PNG)  
